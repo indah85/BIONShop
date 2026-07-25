@@ -1,0 +1,73 @@
+.success-page{
+
+    min-height:80vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:#f5f7fa;
+
+}
+
+.success-card{
+
+    background:white;
+
+    padding:50px;
+
+    border-radius:16px;
+
+    text-align:center;
+
+    width:500px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+
+}
+
+.success-icon{
+
+    font-size:70px;
+
+    margin-bottom:20px;
+
+}
+
+.success-card h1{
+
+    color:#198754;
+
+    margin-bottom:15px;
+
+}
+
+.success-card p{
+
+    color:#666;
+
+    line-height:1.8;
+
+}
+
+.continue-btn{
+
+    display:inline-block;
+
+    margin-top:30px;
+
+    background:#198754;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:14px 30px;
+
+    border-radius:8px;
+
+    font-weight:bold;
+
+}
